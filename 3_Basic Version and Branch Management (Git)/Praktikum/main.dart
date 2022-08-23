@@ -3,4 +3,5 @@ void main() {
   print("Saya di branch development");
   print("Menambahkan fitur B");
   print("Pengganti stash");
+  print("Stash");
 }
