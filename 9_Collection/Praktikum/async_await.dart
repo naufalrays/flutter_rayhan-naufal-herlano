@@ -8,9 +8,11 @@ void main(List<String> args) async {
 
 Future<List> fungsi(List values, int pengali) async {
   List list_baru = [];
-  for (int value in values) {
-    int hasil = value * pengali;
-    list_baru.add(hasil);
-  }
-  return list_baru;
+  return Future.delayed(Duration(seconds: 2), () {
+    for (int value in values) {
+      int hasil = value * pengali;
+      list_baru.add(hasil);
+    }
+    return list_baru;
+  });
 }
