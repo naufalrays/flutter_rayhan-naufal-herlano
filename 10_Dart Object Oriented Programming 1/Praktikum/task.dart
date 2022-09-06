@@ -1,5 +1,5 @@
 import 'animal_class.dart';
-import 'animal_car.dart';
+import 'car_class.dart';
 
 void main(List<String> args) {
   var animal = Animal();
