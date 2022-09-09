@@ -9,12 +9,8 @@ class KelipatanPersekutuanTerkecil implements Matematika {
   @override
   int hasil() {
     int i = 0;
-    while (x > 0) {
-      i = y % x;
-      y = x;
-      x = i;
-    }
-    return y;
+    for (i = y; i % x != 0 || i % y != 0; i++);
+    return i;
   }
 }
 
@@ -25,8 +21,12 @@ class FaktorPersekutuanTerbesar implements Matematika {
   @override
   int hasil() {
     int i = 0;
-    for (i = y; i % x != 0 || i % y != 0; i++);
-    return i;
+    while (x > 0) {
+      i = y % x;
+      y = x;
+      x = i;
+    }
+    return y;
   }
 }
 
