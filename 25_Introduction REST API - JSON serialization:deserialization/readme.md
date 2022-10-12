@@ -93,5 +93,21 @@ Deskripsi :
 
 <img src="./Screenshot/jsonDecode.png" width=40% height=40%>
 
+### Penggunaan Method GET
+Contoh penggunaan dio dengan method GET
+
+<img src="./Screenshot/get.png" width=60% height=60%>
+
+Contoh penggunaan dio dengan method POST
+
+<img src="./Screenshot/post.png" width=60% height=60%>
+
+Contoh penggunaan dio dengan method PUT
+
+<img src="./Screenshot/put.png" width=60% height=60%>
+
+Contoh penggunaan dio dengan method DELETE
+
+<img src="./Screenshot/delete.png" width=60% height=60%>
 
 
