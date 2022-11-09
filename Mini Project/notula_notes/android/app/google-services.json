@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "377663722015",
+    "firebase_url": "https://mini-project-56307-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mini-project-56307",
+    "storage_bucket": "mini-project-56307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377663722015:android:6176ecdc37c64860ec7b2a",
+        "android_client_info": {
+          "package_name": "com.kalava.notula_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377663722015-quhdmsgfums59ab99bc0ctc0jfmcc8sa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kalava.notula_notes",
+            "certificate_hash": "95094c8572d10424be3bd034b84e2efa1de008fc"
+          }
+        },
+        {
+          "client_id": "377663722015-g5s55qehgs7gj4rbsb5jse47kq6c8nu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Mimf-gRyKqd9Q6jtHlHTnizY1qWJd8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377663722015-g5s55qehgs7gj4rbsb5jse47kq6c8nu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
